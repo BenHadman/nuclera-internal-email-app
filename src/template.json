@@ -123,7 +123,7 @@
               "type": "advanced_text",
               "data": {
                 "value": {
-                  "content": "Heading 1"
+                  "content": "Employee Newsletter"
                 }
               },
               "attributes": {
@@ -144,7 +144,7 @@
       "type": "advanced_text",
       "data": {
         "value": {
-          "content": "Paragraph text"
+          "content": "Intro text"
         }
       },
       "attributes": {
@@ -171,7 +171,396 @@
       "type": "advanced_text",
       "data": {
         "value": {
-          "content": "Heading 1"
+          "content": "Welcome to our New Starters"
+        }
+      },
+      "attributes": {
+        "padding": "10px 25px 10px 25px",
+        "align": "left",
+        "color": "#5CBAFA",
+        "font-family": "'Montserrat', sans-serif",
+        "font-size": "22px",
+        "font-weight": "600",
+        "container-background-color": "#ffffff"
+      },
+      "children": []
+    },
+    {
+      "type": "advanced_text",
+      "data": {
+        "value": {
+          "content": "<ul><li>New Starter 1</li><li>New Starter 2</li></ul>"
+        }
+      },
+      "attributes": {
+        "padding": "10px 25px 10px 25px",
+        "align": "left",
+        "container-background-color": "#ffffff",
+        "font-size": "16px",
+        "color": "#536A79"
+      },
+      "children": []
+    },
+    {
+      "type": "advanced_spacer",
+      "data": {
+        "value": {}
+      },
+      "attributes": {
+        "height": "20px",
+        "padding": "   "
+      },
+      "children": []
+    },
+    {
+      "type": "advanced_text",
+      "data": {
+        "value": {
+          "content": "We are sorry to see leavers"
+        }
+      },
+      "attributes": {
+        "padding": "10px 25px 10px 25px",
+        "align": "left",
+        "color": "#5CBAFA",
+        "font-family": "'Montserrat', sans-serif",
+        "font-size": "22px",
+        "font-weight": "600",
+        "container-background-color": "#ffffff"
+      },
+      "children": []
+    },
+    {
+      "type": "advanced_text",
+      "data": {
+        "value": {
+          "content": "<ul><li>Leaver 1</li><li>Leaver 2</li></ul>"
+        }
+      },
+      "attributes": {
+        "padding": "10px 25px 10px 25px",
+        "align": "left",
+        "container-background-color": "#ffffff",
+        "font-size": "16px",
+        "color": "#536A79"
+      },
+      "children": []
+    },
+    {
+      "type": "advanced_spacer",
+      "data": {
+        "value": {}
+      },
+      "attributes": {
+        "height": "20px",
+        "padding": "   "
+      },
+      "children": []
+    },
+    {
+      "type": "advanced_text",
+      "data": {
+        "value": {
+          "content": "3 Image Picture Heading"
+        }
+      },
+      "attributes": {
+        "padding": "10px 25px 10px 25px",
+        "align": "left",
+        "color": "#5CBAFA",
+        "font-family": "'Montserrat', sans-serif",
+        "font-size": "22px",
+        "font-weight": "600",
+        "container-background-color": "#ffffff"
+      },
+      "children": []
+    },
+    {
+      "type": "advanced_text",
+      "data": {
+        "value": {
+          "content": "Intro text"
+        }
+      },
+      "attributes": {
+        "padding": "10px 25px 10px 25px",
+        "align": "left",
+        "container-background-color": "#ffffff",
+        "font-size": "16px",
+        "color": "#536A79"
+      },
+      "children": []
+    },
+    {
+      "type": "advanced_section",
+      "data": {
+        "value": {
+          "noWrap": false
+        }
+      },
+      "attributes": {
+        "padding": "0px 0px 20px 0px",
+        "background-repeat": "repeat",
+        "background-size": "auto",
+        "background-position": "top center",
+        "border": "none",
+        "direction": "ltr",
+        "text-align": "center"
+      },
+      "children": [
+        {
+          "type": "advanced_column",
+          "attributes": {
+            "width": "33.33%"
+          },
+          "data": {
+            "value": {}
+          },
+          "children": [
+            {
+              "type": "advanced_image",
+              "data": {
+                "value": {}
+              },
+              "attributes": {
+                "align": "center",
+                "height": "auto",
+                "padding": "15px 7.5.px 15px 7.5.px",
+                "src": "https://drive.google.com/uc?id=1uG_oW0IqnpIT_4yLq6vNEFfPQBnm5pxk",
+                "container-background-color": "#ffffff",
+                "border-radius": ""
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "advanced_column",
+          "attributes": {
+            "width": "33.33%",
+            "padding": "0px 0px 0px 0px"
+          },
+          "data": {
+            "value": {}
+          },
+          "children": [
+            {
+              "type": "advanced_image",
+              "data": {
+                "value": {}
+              },
+              "attributes": {
+                "align": "center",
+                "height": "auto",
+                "padding": "15px 7.5.px 15px 7.5.px",
+                "src": "https://drive.google.com/uc?id=1uG_oW0IqnpIT_4yLq6vNEFfPQBnm5pxk",
+                "container-background-color": "#ffffff",
+                "border-radius": ""
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "advanced_column",
+          "attributes": {
+            "width": "33.33%",
+            "padding": "0px 0px 0px 0px"
+          },
+          "data": {
+            "value": {}
+          },
+          "children": [
+            {
+              "type": "advanced_image",
+              "data": {
+                "value": {}
+              },
+              "attributes": {
+                "align": "center",
+                "height": "auto",
+                "padding": "15px 7.5.px 15px 7.5.px",
+                "src": "https://drive.google.com/uc?id=1uG_oW0IqnpIT_4yLq6vNEFfPQBnm5pxk",
+                "container-background-color": "#ffffff",
+                "border-radius": ""
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "advanced_text",
+      "data": {
+        "value": {
+          "content": "2 Image Picture Heading"
+        }
+      },
+      "attributes": {
+        "padding": "10px 25px 10px 25px",
+        "align": "left",
+        "color": "#5CBAFA",
+        "font-family": "'Montserrat', sans-serif",
+        "font-size": "22px",
+        "font-weight": "600",
+        "container-background-color": "#ffffff"
+      },
+      "children": []
+    },
+    {
+      "type": "advanced_text",
+      "data": {
+        "value": {
+          "content": "Intro text...<br><br><div>Image upload instructions:<br>-Upload to google drive<br>-Copy the 'share' url that looks like this: https://drive.google.com/file/d/<span style=\"background-color: rgb(248, 231, 28);\">1wLR1g9VQHHgNR0HYS8063UDKI3x-33CN</span>/view?usp=drive_link<br>-Extract the ID highlighted in yellow.</div><div>-Paste the ID onto the end of this link:&nbsp;<span style=\"background-color: rgb(74, 144, 226);\"><font color=\"#ffffff\">https://drive.google.com/uc?id=</font></span></div><div>-Replace the photo of Jimmy using the newly created link.<br></div>"
+        }
+      },
+      "attributes": {
+        "padding": "10px 25px 10px 25px",
+        "align": "left",
+        "container-background-color": "#ffffff",
+        "font-size": "16px",
+        "color": "#536A79"
+      },
+      "children": []
+    },
+    {
+      "type": "advanced_section",
+      "data": {
+        "value": {
+          "noWrap": false
+        }
+      },
+      "attributes": {
+        "padding": "0px 0px 20px 0px",
+        "background-repeat": "repeat",
+        "background-size": "auto",
+        "background-position": "top center",
+        "border": "none",
+        "direction": "ltr",
+        "text-align": "center",
+        "background-color": "#ffffff"
+      },
+      "children": [
+        {
+          "type": "advanced_column",
+          "attributes": {
+            "width": "50%",
+            "padding": "0px 0px 0px 0px",
+            "background-color": "#ffffff"
+          },
+          "data": {
+            "value": {}
+          },
+          "children": [
+            {
+              "type": "advanced_image",
+              "data": {
+                "value": {}
+              },
+              "attributes": {
+                "align": "center",
+                "height": "auto",
+                "padding": "15px 7.5.px 15px 7.5.px",
+                "src": "https://drive.google.com/uc?id=1uG_oW0IqnpIT_4yLq6vNEFfPQBnm5pxk",
+                "container-background-color": "#ffffff",
+                "border-radius": ""
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "advanced_column",
+          "attributes": {
+            "width": "50%",
+            "padding": "0px 0px 0px 0px",
+            "background-color": "#ffffff"
+          },
+          "data": {
+            "value": {}
+          },
+          "children": [
+            {
+              "type": "advanced_image",
+              "data": {
+                "value": {}
+              },
+              "attributes": {
+                "align": "center",
+                "height": "auto",
+                "padding": "15px 7.5.px 15px 7.5.px",
+                "src": "https://drive.google.com/uc?id=1uG_oW0IqnpIT_4yLq6vNEFfPQBnm5pxk",
+                "container-background-color": "#ffffff",
+                "border-radius": ""
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "advanced_spacer",
+      "data": {
+        "value": {}
+      },
+      "attributes": {
+        "height": "20px",
+        "padding": "   "
+      },
+      "children": []
+    },
+    {
+      "type": "advanced_text",
+      "data": {
+        "value": {
+          "content": "Above and Beyond Awards"
+        }
+      },
+      "attributes": {
+        "padding": "10px 25px 10px 25px",
+        "align": "left",
+        "color": "#5CBAFA",
+        "font-family": "'Montserrat', sans-serif",
+        "font-size": "22px",
+        "font-weight": "600",
+        "container-background-color": "#ffffff"
+      },
+      "children": []
+    },
+    {
+      "type": "advanced_text",
+      "data": {
+        "value": {
+          "content": "<ul><li>Gold<h3 class=\"LC20lb MBeuO DKV0Md\" style=\"font-weight: 400; margin: 18px 0px 3px; padding: 5px 0px 0px; font-size: 20px; line-height: 1.3; display: inline-block;\">🥇</h3>&nbsp;&nbsp;</li><li>Silver&nbsp;<h3 class=\"LC20lb MBeuO DKV0Md\" style=\"font-weight: 400; margin: 18px 0px 3px; padding: 5px 0px 0px; font-size: 20px; line-height: 1.3; display: inline-block;\">🥈</h3></li><li>Bronze<a href=\"https://emojipedia.org/3rd-place-medal\" jscontroller=\"M9mgyc\" jsname=\"qOiK6e\" jsaction=\"rcuQ6b:npT2md\" data-ved=\"2ahUKEwid_4eNzYGBAxVpWkEAHYmIDN8QFnoECBkQAQ\" ping=\"/url?sa=t&amp;source=web&amp;rct=j&amp;opi=89978449&amp;url=https://emojipedia.org/3rd-place-medal&amp;ved=2ahUKEwid_4eNzYGBAxVpWkEAHYmIDN8QFnoECBkQAQ\" style=\"color: rgb(26, 13, 171); text-decoration-line: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0.1); outline-style: initial; outline-width: 0px; font-family: arial, sans-serif; font-size: small;\"><h3 class=\"LC20lb MBeuO DKV0Md\" style=\"font-weight: 400; margin: 18px 0px 3px; padding: 5px 0px 0px; font-size: 20px; line-height: 1.3; display: inline-block;\">🥉&nbsp;</h3></a></li></ul>"
+        }
+      },
+      "attributes": {
+        "padding": "10px 25px 10px 25px",
+        "align": "left",
+        "container-background-color": "#ffffff",
+        "font-size": "16px",
+        "color": "#536A79"
+      },
+      "children": []
+    },
+    {
+      "type": "advanced_spacer",
+      "data": {
+        "value": {}
+      },
+      "attributes": {
+        "height": "20px",
+        "padding": "   "
+      },
+      "children": []
+    },
+    {
+      "type": "advanced_text",
+      "data": {
+        "value": {
+          "content": "50:50 Heading 1 (Optional, delete where required)"
         }
       },
       "attributes": {
@@ -222,7 +611,7 @@
               "attributes": {
                 "align": "center",
                 "height": "auto",
-                "src": "https://assets.maocanhua.cn/be61d137-bb44-4358-a681-dea81d2a8ec1-image.png",
+                "src": "https://drive.google.com/uc?id=1eSSrSnp3BNPbbsgRQH0dNfKhr7d_nBGP",
                 "target": "_blank",
                 "width": "1200px",
                 "padding": "0px 30px 20px 30px"

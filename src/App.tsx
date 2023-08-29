@@ -178,8 +178,8 @@ export default function Editor() {
 
   const initialValues: IEmailTemplate | null = useMemo(() => {
     return {
-      subject: 'Welcome to Easy-email',
-      subTitle: 'Nice to meet you!',
+      subject: 'Employee Newsletter',
+      subTitle: 'Sub title!',
       content: template
     };
   }, [template]);
